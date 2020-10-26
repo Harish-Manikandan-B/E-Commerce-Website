@@ -1,0 +1,1 @@
+INSERT INTO `reg` (`name`, `em`, `ad`, `cid`, `pass`) VALUES ('harish', 'h@h.com', 'adress12', 'harish100', 'abcd1234')
